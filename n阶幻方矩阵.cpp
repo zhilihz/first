@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+int main()//hjdfakjlsdh
 {
 	int t,i,j,k,m=0,n,sum=0,item=0,flag=1;;
 	int a[100][100]={0};	
